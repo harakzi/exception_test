@@ -1,0 +1,5 @@
+Django==2.1.9
+django-bootstrap4==0.0.8
+mysqlclient==1.4.2.post1
+pytz==2019.1
+setuptools==40.6.2
